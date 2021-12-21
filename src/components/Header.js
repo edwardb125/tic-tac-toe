@@ -1,6 +1,6 @@
 function Header() {
     return(
-        <di>Header</di>
+        <h2>Welcome to the game</h2>
     );
 }
 

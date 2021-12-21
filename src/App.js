@@ -3,13 +3,9 @@ import Game from './components/Game';
 
 function App() {
   return (
-    <div>
+    <div className="content">
       <Header />
-      <div>Hello!</div>
-      <br></br>
       <Game />
-      
-
     </div>
   );
 }
